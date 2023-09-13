@@ -10,6 +10,8 @@ public class CaesarCipher {
 		String msg;
 		int offset;
 		
+		// test
+		
 		// User input - ask for offset, message
 		System.out.println("Enter a message to encrypt! ");
 		msg = sc.nextLine(); 
